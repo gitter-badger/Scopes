@@ -1,3 +1,10 @@
+/*--------------------------------------------------
+	Google Fonts
+--------------------------------------------------*/
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700,500,400italic,500italic,900,700italic,900italic);
+@import url(https://fonts.googleapis.com/css?family=Lato:700,400italic,400,700italic);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 /*--------------------------------------------------  
 	Default CSS
 --------------------------------------------------*/
@@ -71,7 +78,7 @@ span.navbar-logo:hover {
 
 .navbar-default .navbar-nav>li>a {
 	color: rgba(255,255,255,.7);
-	font-size: 12px;
+	font-size: 13px;
 	text-transform: uppercase;
 }
 
@@ -161,8 +168,8 @@ span.navbar-logo:hover {
 }
 
 .carousel {
-    position: relative;
-    border-bottom: 1px solid rgba(0,0,0,0.5);
+	position: relative;
+	border-bottom: 1px solid rgba(0,0,0,0.5);
 }
 
 .item img {
@@ -182,10 +189,10 @@ span.navbar-logo:hover {
 }
 
 .content-blogs {
-    border-top: 5px solid #D9230F;
-    padding: 18px;
-    margin: 0px 0px 20px 0px;
-    background-color: #FFFFFF;
+	border-top: 5px solid #D9230F;
+	padding: 18px;
+	margin: 0px 0px 20px 0px;
+	background-color: #FFFFFF;
 }
 
 .fill {
@@ -194,6 +201,39 @@ span.navbar-logo:hover {
 	margin: 15px 0px 15px 0px;
 }
 
+
+h4.contNews {
+	text-transform: uppercase;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	line-height: 3px;
+	white-space: nowrap;
+	text-align: center;
+	-webkit-transition: all 0.2s ease;
+	-moz-transition: all 0.2s ease;
+	-ms-transition: all 0.2s ease;
+	-o-transition: all 0.2s ease;
+	transition: all 0.2s ease;
+}
+
+h4.contWidgets {
+	text-transform: uppercase;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	line-height: 3px;
+	white-space: nowrap;
+	text-align: center;
+	-webkit-transition: all 0.2s ease;
+	-moz-transition: all 0.2s ease;
+	-ms-transition: all 0.2s ease;
+	-o-transition: all 0.2s ease;
+	transition: all 0.2s ease;
+}
+
+h4.contWidgets:hover, 
+h4.contNews:hover {
+	color: #D9230F;
+}
 /*--------------------------------------------------  
 	Footer CSS
 --------------------------------------------------*/
