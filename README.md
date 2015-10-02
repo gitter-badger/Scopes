@@ -7,3 +7,6 @@
 	<li>Extract the files on your public_html or htdocs folder (Localhost uses htdocs for xampp and wampp, WebHosting mostly public_html)</li>
 	<li>Open your Index.html file and edit what has the word Placeholder on it</li>
 </ol>
+
+<h2>ADDITIONAL FILE:</h1>
+<p>To speed up a bit the loading for CSS stylesheets, you might want to use the Minified version of Stylesheet.css (css/stylesheet.min.css)</p>
