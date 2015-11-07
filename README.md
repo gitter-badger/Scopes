@@ -14,3 +14,6 @@
 <h2>Preview:</h2>
 <img src="http://i.imgur.com/VLJtopv.jpg" alt="topheader">
 <img src="http://i.imgur.com/1OVsSke.jpg" alt="footerbottom">
+
+
+[![Join the chat at https://gitter.im/SparkleCode/Scopes](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SparkleCode/Scopes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
